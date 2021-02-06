@@ -2,7 +2,7 @@
 
 ## Description
 
-NBrain-mri-segmentation is a jupyter notebook that utilizes ResNet-50 CNN (Convolutional Neural Network) to accurately determine the existence of a tumor using patient brain MRI scans and tumor masks images. Afterwards, I also build a segmentation model to accurately determine the location of predicted brain tumors. To process large sets of high quality images efficiently, I decided to use Google Colab, which allowed me to utilize its GPUs and memory space. The dataset used for this notebook was acquired from [Kaggle](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation). Work in progress.
+Brain-mri-segmentation is a jupyter notebook that utilizes ResNet-50 CNN (Convolutional Neural Network) to accurately determine the existence of a tumor using patient brain MRI scans and tumor masks images. Afterwards, I also build a segmentation model to accurately determine the location of predicted brain tumors. To process large sets of high quality images efficiently, I decided to use Google Colab, which allowed me to utilize its GPUs and memory space. The dataset used for this notebook was acquired from [Kaggle](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation). Work in progress.
 
 The general process for the notebook was:
 
